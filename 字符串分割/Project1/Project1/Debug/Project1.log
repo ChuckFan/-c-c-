@@ -1,0 +1,55 @@
+﻿生成启动时间为 2019/7/22 10:59:27。
+     1>项目“D:\c及c++\数据结构\动态规划\字符串分割\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+         Test.cpp
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(25): error C2061: 语法错误: 标识符“string”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(27): error C2065: “s”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(27): error C2228: “.empty”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(31): error C2065: “dict”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(31): error C2228: “.empty”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(37): error C2065: “unordered_set”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(37): error C2065: “string”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(37): error C2039: “iterator”: 不是“`global namespace'”的成员
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(37): error C2065: “iterator”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(37): error C2146: 语法错误: 缺少“;”(在标识符“dict_iter”的前面)
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(37): error C2065: “dict_iter”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(37): error C2065: “dict”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(37): error C2228: “.begin”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(38): error C2065: “dict_iter”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(38): error C2065: “dict”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(38): error C2228: “.end”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(40): error C2065: “dict_iter”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(40): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(42): error C2065: “dict_iter”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(42): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(46): error C2065: “vector”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(46): error C2062: 意外的类型“bool”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(48): error C2065: “s”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(48): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(59): error C2065: “can_break”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(59): error C2065: “dict”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(59): error C2228: “.find”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(59): error C2065: “s”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(59): error C2228: “.substr”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(59): error C2228: “.end”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(61): error C2065: “can_break”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(67): error C2065: “can_break”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(67): error C2065: “s”: 未声明的标识符
+     1>d:\c及c++\数据结构\动态规划\字符串分割\project1\project1\test.cpp(67): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>已完成生成项目“D:\c及c++\数据结构\动态规划\字符串分割\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.58
